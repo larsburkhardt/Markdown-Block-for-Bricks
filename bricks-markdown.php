@@ -3,7 +3,7 @@
 Plugin Name: Bricks Markdown Element
 Description: Adds a custom Markdown element to Bricks builder
 Version: 1.0
-Author: Your Name
+Author: Lars Burkhardt
 */
 
 if (!defined('ABSPATH')) exit; // Exit if accessed directly
